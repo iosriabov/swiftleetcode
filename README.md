@@ -14,9 +14,6 @@ Inspired by the repository by Yi Gu! [https://github.com/soapyigu/LeetCode-Swift
 * [MEDIUM QUESTIONS (Current Count: 107)](https://github.com/iosriabov/LeetCode-in-Swift/tree/master/MEDIUM/README.md)
 * [HARD QUESTIONS (Current Count: 005)](https://github.com/iosriabov/LeetCode-in-Swift/tree/master/HARD/README.md)
 
-# Contributors
-* [Rudrank Riyam](https://twitter.com/iosriabov)
-
 # iOS Interview Preparation
 Curating all the resources **I refer to** for interview preparation. This is **not an exhaustive list** and you are free to add your suggestion to it. Thank you!
 
