@@ -4,8 +4,8 @@
 | ------------- |:-------------:| -----:|
 |✅ [0001 - Two Sum](https://leetcode.com/problems/two-sum/)| [Swift](https://github.com/iosriabov/swiftleetcode/blob/main/EASY/0001%20-%20Two%20Sum.swift)| - |
 |✅ [0007 - Reverse Integer](https://leetcode.com/problems/reverse-integer)| [Swift](https://github.com/iosriabov/swiftleetcode/blob/main/EASY/0007%20-%20Reverse%20Integer.swift)| - |
-| [0009 - Palindrome Number](https://leetcode.com/problems/palindrome-number)| [Swift](https://github.com/iosriabov/swiftleetcode/blob/main/EASY/0009%20-%20Palindrome%20Number.swift)| - |
-| [0013 - Roman to Integer](https://leetcode.com/problems/roman-to-integer)| [Swift](https://github.com/iosriabov/swiftleetcode/blob/main/EASY/0013%20-%20Roman%20to%20Integer.swift)| - |
+|✅ [0009 - Palindrome Number](https://leetcode.com/problems/palindrome-number)| [Swift](https://github.com/iosriabov/swiftleetcode/blob/main/EASY/0009%20-%20Palindrome%20Number.swift)| - |
+|✅ [0013 - Roman to Integer](https://leetcode.com/problems/roman-to-integer)| [Swift](https://github.com/iosriabov/swiftleetcode/blob/main/EASY/0013%20-%20Roman%20to%20Integer.swift)| - |
 | [0014 - Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)| [Swift](https://github.com/iosriabov/swiftleetcode/blob/main/EASY/0014%20-%20Longest%20Common%20Prefix.swift)| - |
 | [0020 - Valid Parentheses](https://leetcode.com/problems/valid-parentheses)| [Swift](https://github.com/iosriabov/swiftleetcode/blob/main/EASY/0020%20-%20Valid%20Parentheses.swift)| - |
 | [0021 - Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)| [Swift](https://github.com/iosriabov/swiftleetcode/blob/main/EASY/0021%20-%20Merge%20Two%20Sorted%20Lists.swift)| - |
