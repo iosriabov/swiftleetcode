@@ -49,6 +49,50 @@ class Solution {
     }
 }
 
+class Solution {
+    func isValid(_ s: String) -> Bool {
+        var stack: [Character] = [Character]()
+        var parentTypeDict: [Character: ParentType] = [
+            "(" : .opened,
+            "{" : .opened,
+            "[" : .opened,
+            ")" : .closed,
+            "}" : .closed,
+            "]" : .closed
+        ]
+
+         var checkDict: [Character: Character] = [
+            ")" : "(",
+            "}" : "{",
+            "]" : "["
+        ]
+
+        for ch in s {
+            if let currentType = parentTypeDict[ch] {
+                if currentType == .opened {
+                   stack.append(ch) 
+                } else {
+                    if let lastElement = stack.popLast() {
+                        if let pair = checkDict[ch] {
+                            if pair == lastElement {
+                                continue
+                            } else {
+                                return false
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        return stack.isEmpty
+    }
+
+    enum ParentType {
+        case opened
+        case closed
+    }
+}
 
 
 class Solution {
