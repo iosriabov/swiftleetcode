@@ -2,7 +2,7 @@
 
 | Problem        | Code           | Medium Article  |
 | ------------- |:-------------:| -----:|
-||| 107|
+|76 дней|3 задачи в день. 14 декабря 2024|107|
 | [0002 - Add Two Numbers](https://leetcode.com/problems/add-two-numbers)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/MEDIUM/0002%20-%20Add%20Two%20Numbers.swift)| - |
 | [0003 - Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/MEDIUM/0003%20-%20Longest%20Substring%20Without%20Repeating%20Characters.swift)| - |
 | [0005 - Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)| [Swift](https://github.com/rudrankriyam/LeetCode-in-Swift/blob/master/MEDIUM/0005%20-%20Longest%20Palindromic%20Substring.swift)| - |
