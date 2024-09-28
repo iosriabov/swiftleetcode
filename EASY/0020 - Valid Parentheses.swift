@@ -23,6 +23,33 @@
 Но конкретного "официального" названия у него нет, так как он является классическим применением структуры данных "стек" для решения задачи на правильность парных символов.
 
 
+class Solution {
+    func isValid(_ s: String) -> Bool {
+        var stack: [Character] = []
+        
+        // Словарь соответствий закрытых и открытых скобок
+        let matchingBrackets: [Character: Character] = [")": "(", "}": "{", "]": "["]
+        
+        // Проходимся по каждому символу строки
+        for char in s {
+            // Если это закрывающая скобка
+            if let matchingOpen = matchingBrackets[char] {
+                // Проверяем, что стек не пуст и последний элемент в стеке — это соответствующая открывающая скобка
+                if stack.popLast() != matchingOpen {
+                    return false
+                }
+            } else {
+                // Если это открывающая скобка, добавляем её в стек
+                stack.append(char)
+            }
+        }
+        
+        // Если после обхода строки стек пуст, значит, все скобки закрыты правильно
+        return stack.isEmpty
+    }
+}
+
+
 
 class Solution {
     func isValid(_ s: String) -> Bool {
