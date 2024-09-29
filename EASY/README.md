@@ -10,7 +10,7 @@
 |✅ [0014 - Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)| [Swift](https://github.com/iosriabov/swiftleetcode/blob/main/EASY/0014%20-%20Longest%20Common%20Prefix.swift)| - |
 |✅ [0020 - Valid Parentheses](https://leetcode.com/problems/valid-parentheses)| [Swift](https://github.com/iosriabov/swiftleetcode/blob/main/EASY/0020%20-%20Valid%20Parentheses.swift)| - |
 |✅ [0021 - Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)| [Swift](https://github.com/iosriabov/swiftleetcode/blob/main/EASY/0021%20-%20Merge%20Two%20Sorted%20Lists.swift)| - |
-| [0026 - Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)| [Swift](https://github.com/iosriabov/swiftleetcode/blob/main/EASY/0026%20-%20Remove%20Duplicates%20from%20Sorted%20Array.swift)| - |
+|✅ [0026 - Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)| [Swift](https://github.com/iosriabov/swiftleetcode/blob/main/EASY/0026%20-%20Remove%20Duplicates%20from%20Sorted%20Array.swift)| - |
 | [0027 - Remove Element](https://leetcode.com/problems/remove-element)| [Swift](https://github.com/iosriabov/swiftleetcode/blob/main/EASY/0027%20-%20Remove%20Element.swift)| - |
 | [0028 - Implement strStr()](https://leetcode.com/problems/implement-strstr)| [Swift](https://github.com/iosriabov/swiftleetcode/blob/main/EASY/0028%20-%20Implement%20strStr().swift)| - |
 | [0035 - Search Insert Position](https://leetcode.com/problems/search-insert-position)| [Swift](https://github.com/iosriabov/swiftleetcode/blob/main/EASY/0035%20-%20Search%20Insert%20Position.swift)| - |
