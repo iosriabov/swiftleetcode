@@ -1,5 +1,17 @@
 class Solution {
     func isPalindrome(_ x: Int) -> Bool {
+        if x < 0 {
+              return false 
+             }
+
+        let string = String(x)
+
+        return string == String(string.reversed())
+    }
+}
+
+class Solution {
+    func isPalindrome(_ x: Int) -> Bool {
         var array = Array(String(x))
         var left = 0
         var right = array.count - 1
